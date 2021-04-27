@@ -1,0 +1,15 @@
+.DS_Store
+rachel/target
+rachel/classes
+rachel/checkouts
+rachel/.idea
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+rachel/.nrepl-port
+.hgignore
+.hg/
+rachel/.eastwood
+papers

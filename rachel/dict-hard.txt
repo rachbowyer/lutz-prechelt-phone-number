@@ -1,0 +1,9 @@
+jr
+jw
+jx
+nr
+nw
+nx
+qr
+qw
+qx
