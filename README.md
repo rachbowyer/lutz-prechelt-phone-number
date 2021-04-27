@@ -17,5 +17,5 @@ See my [blog](https://www.bowyer.info/post/developer-productivity) for more info
 <hr/>
 
 
-<small>Picture of a phone directory courtesy of Adam Lehman. Used under the Creative Commons [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) licence.</small>
+<sup>Picture of a phone directory courtesy of Adam Lehman. Used under the Creative Commons [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) licence.</sup>
 
