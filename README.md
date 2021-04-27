@@ -3,7 +3,7 @@
 <img src="https://static.wixstatic.com/media/3466eb_8fc176601fa84e33ab8c829dfc532885~mv2.jpg/v1/fill/w_454,h_341,fp_0.50_0.50,q_90/3466eb_8fc176601fa84e33ab8c829dfc532885~mv2.webp" alt="Picture of phone numbers in a directory" width="250"/>
 
 
-On this [blog](https://norvig.com/java-lisp.html), Peter Norvig describes some research on the effectiveness of programming languages for application development carried out by Lutz Prechelt and Ron Garret. Research subjects were asked to implement a program that met a specific specification. This repo contains two implementations of the program:
+On this [blog](https://norvig.com/java-lisp.html), Peter Norvig describes some research on developer productivity carried out by Lutz Prechelt and Ron Garret. Research subjects were asked to implement a program that met a specific specification. This repo contains two implementations of the program:
 
 
 1. [My implementation in Clojure](https://github.com/rachbowyer/lutz-prechelt-phone-number/tree/main/rachel)
